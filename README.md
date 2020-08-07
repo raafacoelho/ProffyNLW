@@ -16,12 +16,12 @@
 <h2>&nbsp;É um projeto que coloca em prática diversos conceitos fundamentalmente importantes e atuais do <i>Web Development</i>, tais como...</h2>
 <br><br>
 <div align="center">
-<img class="mobile" width="1200px" src="public/responsive.gif"><br>
+<img class="mobile" width="1200px" src="public/images/responsive.gif"><br>
 <h3><b>Design Responsivo - Mobile First 📱</b></h3>
 </div>
 <br><br>
 <div align="center">
-<img class="mobile" width="1200px" src="public/frontend.png"><br>
+<img class="mobile" width="1200px" src="public/images/frontend.png"><br>
 <h3><b>Código Moderno - HTML, CSS e JavaScript Atuais ✔️</b></h3>
 </div>
 <br><br>
