@@ -1,5 +1,5 @@
 <h1 align="center" font-size="40px">
-<img src="public/images/proffy_logo.png">
+<img src="/images/proffy_logo.png">
 <br><br>
 </h1>
 <div align="center">
