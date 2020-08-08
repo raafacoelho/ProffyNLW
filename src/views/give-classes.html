@@ -30,7 +30,7 @@
        </header>
 
        <main>
-           <form action="" id="create-class">
+           <form action="/save-classes" id="create-class" method="POST">
                <fieldset>
                    <legend>Seus dados</legend>
 
@@ -85,7 +85,7 @@
                     <div class="schedule-item">
                         <div class="select-block">
                             <label for="weekday">Dia da semana</label>
-                            <select name="weekday[]" required>
+                            <select name="weekday[]" id="weekday" required>
                                 <option value="" disabled="" hidden="">Selecione uma ação</option>
 
                                 {%for weekday in weekdays %}
